@@ -5,7 +5,7 @@ This project aims to detect fraudulent credit card transactions using machine le
 It uses various algorithms including Logistic Regression, Isolation Forest, and Local Outlier Factor (LOF) to identify fraudulent transactions from a highly imbalanced dataset.
 
 ## Dataset
-The dataset consists of 284,807 credit card transactions, with only 492 labeled as fraudulent. Download Link = https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/code
+The dataset consists of 284,807 credit card transactions, with only 492 labeled as fraudulent. Download Link = https://drive.google.com/drive/folders/1-6rUm2caGOwO2T0HotGt6NBpcQed7J7J?usp=drive_link
 
 ## Models Used
 1. **Logistic Regression**: Achieved a high accuracy (99.9%) but struggled to detect fraud cases with a recall of 56%.
